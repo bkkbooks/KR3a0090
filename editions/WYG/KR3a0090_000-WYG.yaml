@@ -1,0 +1,23 @@
+canonical_identifier: bkk:krp/KR3a0090/WYG/v1/juan/0
+seq: 0
+front:
+  text: 欽定四庫全書子部一
+  hash: sha256:0cca43e587e9c707aa7b5087f084e976ac80456101f009f4c0e78ad8fcc2f097
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR3a0090_WYG_000-1a, image: WYG0715/WYG0715-0031a.png}
+body:
+  text: 張子抄釋儒家類提要臣等謹案張子抄釋六卷明吕柟撰是編摘録張子之書以西銘東銘為冠次正蒙十九篇次經學理窟十一篇次語録次文集而終以行狀亦每條各附以釋如周子抄釋之例首有嘉靖辛丑柟自序稱張子書存者止二銘正䝉理窟語録文集而文集又未完止得二卷於馬伯循氏諸書皆言簡意實出於精思力行之後顧其書散見漫行渙無統紀而一義重出亦容有之暇嘗稡抄成帙注釋數言畧發大㫖以便初學觀省葢其謫官解州時作也案虞集作吳澄行状稱澄校正張子之書挈東西銘於篇首而正䝉次之大意與柟此本合澄本今未見柟此本簡汰不茍較世所行張子全書亦為精要矣乾隆四十五年七月恭校上總纂官臣紀昀臣陸錫熊臣孫士毅總校官臣陸費墀張子抄釋原序横渠張子書甚多今其存者止二銘正䝉理窟語録及文集而文集又未完止得二卷於三原馬伯循氏然諸書皆言簡意實出於精思力行之後至論仁孝神化政教禮樂蓋自孔孟後未有能如是切者也顧其書散見漫行涣無統紀而一義重出亦容有之暇嘗稡抄成帙注釋數言略發大㫖以便初學者之觀省謫解之第三年廵按潛江初公恐四方無是本也命刻諸解梁書院以廣布云嘉靖五年三月辛丑後學髙陵吕柟序
+  hash: sha256:0110d59b1f64cc3fd8bd7ef8d7a2ea4af0b380fabff1c844573d7ebed4b58d69
+  markers:
+  - {type: page-break, offset: 274, content: '', id: KR3a0090_WYG_000-3a, image: WYG0715/WYG0715-0032c.png}
+metadata:
+  title: 張子抄釋
+  edition:
+    short: WYG
+    label: 【四庫全書・文淵閣】
+  date: '2015-08-24 23:00:40.820036'
+  juan_title: 提要
+  source:
+    repository: kanripo
+    path: KR3a0090/KR3a0090_000.txt
+hash: sha256:dc726209cd768bef35f6ce9a75eab1dee9c7a70276ee858ee7c6dbb451c1154a
